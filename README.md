@@ -10,7 +10,7 @@ Reads MBOX files and prints stats
 
 1. Have Python3 installed!
 
-2. Run program and get stats from your mbox
+2. Run program and get stats from your mbox file.
 
 Tests can be run with an mbox file. 
 
