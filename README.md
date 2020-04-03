@@ -1,6 +1,6 @@
 # README #
 
-Coded by John Dogan [www.thestreetplug.com]
+Coded by John Dogan
 
 ### What is this repository for? ###
 
@@ -16,4 +16,4 @@ Tests can be run with an mbox file.
 
 ### Who do I talk to? ###
 
-l0sm3n@gmail.com
+john@dogan.ai
